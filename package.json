@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-v3-grid",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Only grid and responsive classes",
   "main": "bootstrap-v3-grid.css",
   "repository": {
