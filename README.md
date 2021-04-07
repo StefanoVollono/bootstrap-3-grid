@@ -1,4 +1,4 @@
-## Bootstrap-grid (ver 3.3.7)
+## Bootstrap-grid (ver 3.4.1)
 Only grid and responsive classes
 
 ## Getting started
