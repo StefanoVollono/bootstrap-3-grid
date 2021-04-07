@@ -1,8 +1,8 @@
-## Bootstrap-grid (ver 3.3.7)
+## Bootstrap-grid (ver 3.4.1)
 Only grid and responsive classes
 
-## Getting started
-1. ```bower install bootstrap-3-grid --save``` or ```npm install bootstrap-3-grid --save```
+## Getting started (the bower version is no longer up to date)
+1. ```npm install bootstrap-3-grid --save```
 2. Include this file ```bootstrap-3-grid.css```
 
 ## Important note!!!
